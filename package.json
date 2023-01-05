@@ -1,0 +1,26 @@
+{
+  "name": "get-distance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "workspaces": [
+    "packages/backend",
+    "packages/frontend"
+  ],
+  "scripts": {
+    "build": "cd packages/frontend && npm run build && cd ../backend && npm run tsc",
+    "start": "cd packages/backend && npm run start",
+    "deploy": "npm run build && npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinfacc/get-distance.git"
+  },
+  "keywords": [],
+  "author": "Martin Facciuto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinfacc/get-distancet/issues"
+  },
+  "homepage": "https://github.com/martinfacc/get-distance#readme"
+}

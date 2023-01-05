@@ -1,0 +1,281 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "partial_match": true,
+      "place_id": "ChIJoYUAHyvmopUR4xJzVPBE_Lw",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "EjlDLiA0ODUgMTY4MiwgR29ubmV0LCBQcm92aW5jaWEgZGUgQnVlbm9zIEFpcmVzLCBBcmdlbnRpbmEiMRIvChQKEgn3rpz7292ilRHNhjXswMZxrxCSDSoUChIJL9zW08fdopUR2U63gf8hpAk",
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": -34.8725588,
+          "lng": -57.9535729
+        },
+        "southwest": {
+          "lat": -34.9205012,
+          "lng": -58.03626260000001
+        }
+      },
+      "copyrights": "Map data ©2023",
+      "legs": [
+        {
+          "distance": {
+            "text": "10.5 km",
+            "value": 10507
+          },
+          "duration": {
+            "text": "22 mins",
+            "value": 1309
+          },
+          "end_address": "C. 485 1682, Gonnet, Provincia de Buenos Aires, Argentina",
+          "end_location": {
+            "lat": -34.8796452,
+            "lng": -58.0359841
+          },
+          "start_address": "La Plata, Buenos Aires Province, Argentina",
+          "start_location": {
+            "lat": -34.9205012,
+            "lng": -57.9535729
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "0.8 km",
+                "value": 838
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 174
+              },
+              "end_location": {
+                "lat": -34.9154048,
+                "lng": -57.9603321
+              },
+              "html_instructions": "Head <b>northwest</b> on <b>C. 12</b> toward <b>Av. 51</b>",
+              "polyline": {
+                "points": "blctEx`v`JOVWZi@r@OTk@p@a@l@YVcBlCuBbDaClDsCbEwClEiD~E"
+              },
+              "start_location": {
+                "lat": -34.9205012,
+                "lng": -57.9535729
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "88 m",
+                "value": 88
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 18
+              },
+              "end_location": {
+                "lat": -34.9158105,
+                "lng": -57.9610407
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Av. 44</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "flbtE`kw`JKN`@b@V\\TXBHHV"
+              },
+              "start_location": {
+                "lat": -34.9154048,
+                "lng": -57.9603321
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "89 m",
+                "value": 89
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 15
+              },
+              "end_location": {
+                "lat": -34.9158712,
+                "lng": -57.9619994
+              },
+              "html_instructions": "<b>Av. 44</b> turns slightly <b>right</b> and becomes <b>Pl. Paso</b>",
+              "polyline": {
+                "points": "xnbtEnow`JBjC?R?F@F@D@D@B"
+              },
+              "start_location": {
+                "lat": -34.9158105,
+                "lng": -57.9610407
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "2.9 km",
+                "value": 2946
+              },
+              "duration": {
+                "text": "7 mins",
+                "value": 401
+              },
+              "end_location": {
+                "lat": -34.8980073,
+                "lng": -57.9857912
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Av. 13</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "dobtEnuw`JwArBeDxEgDdFgDxEaD`FkDbFMTaDzEiD|EgDbFcDxEiDdFmDfFINy@zAMZ]n@Ub@[f@i@x@m@~@mAlBgIrLeCdDeAxAqAvBaBzByAxB{BhDeCdEk@t@q@|@c@b@ON[Tg@ZWL"
+              },
+              "start_location": {
+                "lat": -34.9158712,
+                "lng": -57.9619994
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.6 km",
+                "value": 600
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 41
+              },
+              "end_location": {
+                "lat": -34.8961419,
+                "lng": -57.9917674
+              },
+              "html_instructions": "Continue onto <b>Acceso A Camino Centenario</b>/<wbr/><b>Cam. Parque Centenario</b>",
+              "polyline": {
+                "points": "p__tEdj|`JGDc@VIHEDKNKLUb@K\\Mp@Ir@Gp@GdBOfBKnAK~@K~@S`BCRIj@YzAQv@Uz@_AtB"
+              },
+              "start_location": {
+                "lat": -34.8980073,
+                "lng": -57.9857912
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "4.3 km",
+                "value": 4330
+              },
+              "duration": {
+                "text": "7 mins",
+                "value": 417
+              },
+              "end_location": {
+                "lat": -34.8725588,
+                "lng": -58.0281657
+              },
+              "html_instructions": "Slight <b>right</b> onto <b>Cam. Parque Centenario</b>/<wbr/><b>RP14</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "zs~sEpo}`Jw@n@YRa@Ng@REB}@VoCr@_Bd@GBaAXq@Tg@Ty@`@c@Vc@VwAvBmDpFmDfFeDbF_AvAg@r@GHs@fAkDdFsC~DaAvAaAxAu@hAQRqAdBoAjBmD~EiBjC}@rAiD~EcDzEcB`Cm@jASf@Qn@i@|Bg@jBYr@GNKTQb@[p@]|@e@hAGNg@tAWt@}@lCkBtF}B~G]dAeBhFaDvJABq@jBCJ[z@Qd@s@rBc@jA_@hAoJ`ZqBhGe@xA"
+              },
+              "start_location": {
+                "lat": -34.8961419,
+                "lng": -57.9917674
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "1.1 km",
+                "value": 1058
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 143
+              },
+              "end_location": {
+                "lat": -34.8816636,
+                "lng": -58.0314229
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>C. 489</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "n`zsE`sdaJRXZHxG`BtG~ArEfAdFrAvDz@zD`AdDv@fFpA"
+              },
+              "start_location": {
+                "lat": -34.8725588,
+                "lng": -58.0281657
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.5 km",
+                "value": 461
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 72
+              },
+              "end_location": {
+                "lat": -34.8804868,
+                "lng": -58.03626260000001
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>C. 18</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "jy{sEjgeaJeAtFw@lFw@rFs@nF"
+              },
+              "start_location": {
+                "lat": -34.8816636,
+                "lng": -58.0314229
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 97
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 28
+              },
+              "end_location": {
+                "lat": -34.8796452,
+                "lng": -58.0359841
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>C. 485</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "`r{sErefaJgDw@"
+              },
+              "start_location": {
+                "lat": -34.8804868,
+                "lng": -58.03626260000001
+              },
+              "travel_mode": "DRIVING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "blctEx`v`JaB|BmA~AYVcBlCwFpIkHpKuDnFx@`AXb@HVBjC?ZBLBH}FlIgDdFgDxEmIdMoDpFqI`MeOvT{BjEaEnGgIrLeCdDwCpE{DtF{BhDeCdE}ArBs@r@cAp@_@Rm@`@QTa@p@YnAQdBGdBOfBWnC_@`DM~@k@rCUz@_AtBqAbAiAb@cAZyHvByAj@}Ax@c@VwAvB{IxMuGxJuLdQwBbDcBxBeLjPmIzLcB`Cm@jAe@vAqAhF_A|BgBhE_AjCiDbKcLf]}EfNaNjb@e@xARXtHjBhNfDdFrAvDz@`JxBfFpAeAtFoB`Ns@nFgDw@"
+      },
+      "summary": "Av. 13 and Cam. Parque Centenario",
+      "warnings": [],
+      "waypoint_order": []
+    }
+  ],
+  "status": "OK"
+}
